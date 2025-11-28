@@ -1,0 +1,5 @@
+data/results_mbert
+data/results_ukrbert
+data/xml-bert-results
+data/doctors_reviews.csv
+data/*.png
